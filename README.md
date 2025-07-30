@@ -133,9 +133,6 @@ Uncomment the client and model you wish to use. The agent will use your selected
 
 ---
 
-#### 修正后的 `README.md` (中文版)
-
-```markdown
 # 财经小助理 (Mini Finance Assistant Agent)
 
 欢迎使用财经小助理，这是一个功能强大的命令行工具，旨在为国际和中国市场的股票提供实时的金融数据、新闻情绪分析和关键经济指标。
@@ -156,6 +153,7 @@ Uncomment the client and model you wish to use. The agent will use your selected
   - **OpenRouter**: 可访问包括Google、Moonshot AI等在内的多种模型。
 - **智能工具调用**: 代理会分析您的问题，并自动并行调用一个或多个工具来收集所需信息。
 - **交互式命令行界面**: 使用 `rich` 库构建了用户友好的命令行界面，输出格式清晰、易于阅读。
+
 
 ## 项目结构
 
