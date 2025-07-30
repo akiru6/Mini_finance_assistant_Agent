@@ -1,0 +1,18 @@
+# requirements.txt
+
+# To load environment variables from .env file
+python-dotenv
+
+# LLM Providers (Official Clients)
+groq
+openai  # Used for OpenRouter's OpenAI-compatible API
+
+# Tools
+tavily-python
+yfinance
+
+# For better console output
+rich
+
+# Pydantic is still very useful for data modeling and creating tool schemas
+pydantic
